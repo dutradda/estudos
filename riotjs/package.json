@@ -1,0 +1,26 @@
+{
+  "author": {
+    "name": "Diogo Dutra"
+  },
+  "dependencies": {},
+  "description": "CRUDit Page",
+  "devDependencies": {
+    "graceful-fs": "^4.0.0",
+    "babel-preset-es2015-riot": "^1.0.4",
+    "del": "^2.2.0",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.3.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify": "0.0.5",
+    "gulp-clean-css": "^2.0.7",
+    "gulp-riot": "^0.4.4",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.6.0",
+    "riot-mui": "^0.0.15"
+  },
+  "license": "MIT",
+  "name": "crudit-page",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "0.0.0"
+}
